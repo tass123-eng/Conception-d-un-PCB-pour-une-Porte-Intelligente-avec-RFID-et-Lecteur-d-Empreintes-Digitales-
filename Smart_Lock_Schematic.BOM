@@ -1,0 +1,16 @@
+Bill of Material for 
+On 23/03/2025 at 00:31:40
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 2N3904              TO-92A           1    Q1                           NPN General Purpose Amplifier 
+ AMS1117-3.3         SOT229P700X180-4N    1    3.3V Regulator               Sot223/Pkg 1-Amp 3.3-Volt Low Drop Out Voltage Regulatator 
+ Header 3            HDR1X3           1    Servo                        Header, 3-Pin        
+ Header 4            HDR1X4           1    OLED SSD1306                 Header, 4-Pin        
+ Header 8            HDR1X8           1    RC522 RFID Reader            Header, 8-Pin        
+ LM7805CT            TO220-3_ONS      1    5V Regulator                 No Description Available 
+ PCATEDGE            PCATEDGE         1    P?                           Card, 98-Position    
+ R305FINGER                           1    R305FINGER                                        
+ Relay-SPDT          MODULE5B         1    RELAY                        Single-Pole Dual-Throw Relay 
+ Res2                AXIAL-0.4        2    R1, R2                       Resistor             
+ ZC563900            MODULE_ZC563900    1    U1                           NodeMcu Lua ESP8266 WIFI Internet of Things Network Development Module Board 
